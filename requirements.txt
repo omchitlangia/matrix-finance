@@ -1,1 +1,15 @@
-none
+pandas
+numpy
+scipy
+matplotlib
+ccxt
+yfinance
+praw
+requests
+vaderSentiment
+pyyaml
+vectorbt
+nsepy
+python-dateutil
+tqdm
+pyarrow
